@@ -1,11 +1,24 @@
-# Learing-note
+# 📓 Learning Notes
 
-css 
+> 這裡是我所有的筆記，持續更新中...
 
-javascript  
+---
 
-tailwind  
+## 📂 筆記分類目錄
 
-typescript  
+| 分類 | 具體技術 / 工具 | 連結 |  
 
-react  
+| **Frontend** | 🌐 HTML / CSS | [查看筆記](./notes/html-css/)  
+| **Frontend** | 🎨 Tailwind CSS | [查看筆記](./notes/tailwind/)  
+| **Frontend** | ⚛️ React.js | [查看筆記](./notes/react/)  
+| **Language** | 📜 JavaScript | [查看筆記](./notes/javascript/)  
+| **Backend** | 🟢 Node.js | [查看筆記](./notes/nodejs/)  
+| **Database** | 🐬 MySQL | [查看筆記](./notes/mysql/)  
+| **Build Tool**| ⚡ Vite | [查看筆記](./notes/vite/)  
+
+
+---
+
+## 💡 快速提示
+* 點擊上方表格中的 **「查看筆記」** 即可進入對應資料夾。
+* 建議在資料夾內點擊 `README.md` 查看該主題的詳細導讀。
